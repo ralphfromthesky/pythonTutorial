@@ -12,7 +12,11 @@ listed =  [12,3,5,77,8,12, 1,23,123,45,6,777, 'ralph']
 for i, e in enumerate(listed):
     print(i + 1, e)
 
-if('ralphs' in listed):
-    print('yes it has the word "ralph"')
-else:
-    print('no its not')
+# if('ralphs' in listed):
+#     print('yes it has the word "ralph"')
+# else:
+#     print('no its not')
+# if  123 in listed:
+#        print('there is')
+# else:
+#        print('theres not')
